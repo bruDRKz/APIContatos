@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Bruno Rodrigues\\source\\repos\\AgendaAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5F74A756-0965-49BE-8EEC-1E20648C227B}|AgendaAPI.csproj|c:\\users\\bruno rodrigues\\source\\repos\\agendaapi\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{5F74A756-0965-49BE-8EEC-1E20648C227B}|AgendaAPI.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5F74A756-0965-49BE-8EEC-1E20648C227B}|AgendaAPI.csproj|c:\\users\\bruno rodrigues\\source\\repos\\agendaapi\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F74A756-0965-49BE-8EEC-1E20648C227B}|AgendaAPI.csproj|solutionrelative:controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -34,11 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "readme.md",
+              "DocumentMoniker": "C:\\Users\\Bruno Rodrigues\\source\\repos\\AgendaAPI\\readme.md",
+              "RelativeDocumentMoniker": "readme.md",
+              "ToolTip": "C:\\Users\\Bruno Rodrigues\\source\\repos\\AgendaAPI\\readme.md",
+              "RelativeToolTip": "readme.md",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAqwJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-04-18T23:36:08.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Bruno Rodrigues\\source\\repos\\AgendaAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -50,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Bruno Rodrigues\\source\\repos\\AgendaAPI\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -58,12 +75,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-05T20:46:08.943Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T20:46:08.943Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Bruno Rodrigues\\source\\repos\\AgendaAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -71,12 +87,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T20:33:35.332Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T20:33:35.332Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Bruno Rodrigues\\source\\repos\\AgendaAPI\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -84,25 +99,24 @@
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T20:30:52.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T20:30:52.098Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ContatoController.cs",
               "DocumentMoniker": "C:\\Users\\Bruno Rodrigues\\source\\repos\\AgendaAPI\\Controllers\\ContatoController.cs",
               "RelativeDocumentMoniker": "Controllers\\ContatoController.cs",
               "ToolTip": "C:\\Users\\Bruno Rodrigues\\source\\repos\\AgendaAPI\\Controllers\\ContatoController.cs",
               "RelativeToolTip": "Controllers\\ContatoController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwGAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-05T20:09:23.887Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Contato.cs",
               "DocumentMoniker": "C:\\Users\\Bruno Rodrigues\\source\\repos\\AgendaAPI\\Models\\Contato.cs",
               "RelativeDocumentMoniker": "Models\\Contato.cs",
@@ -110,8 +124,7 @@
               "RelativeToolTip": "Models\\Contato.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T19:43:31.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T19:43:31.818Z"
             }
           ]
         }

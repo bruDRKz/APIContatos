@@ -169,3 +169,5 @@ C:\Users\Bruno Rodrigues\source\repos\AgendaAPI\obj\Debug\net8.0\refint\AgendaAP
 C:\Users\Bruno Rodrigues\source\repos\AgendaAPI\obj\Debug\net8.0\AgendaAPI.pdb
 C:\Users\Bruno Rodrigues\source\repos\AgendaAPI\obj\Debug\net8.0\AgendaAPI.genruntimeconfig.cache
 C:\Users\Bruno Rodrigues\source\repos\AgendaAPI\obj\Debug\net8.0\ref\AgendaAPI.dll
+C:\Users\Bruno Rodrigues\source\repos\AgendaAPI\obj\Debug\net8.0\AgendaAPI.sourcelink.json
+C:\Users\Bruno Rodrigues\source\repos\AgendaAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
